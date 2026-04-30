@@ -15,7 +15,7 @@ django.setup()
 from accounts.models import CustomUser
 
 EMAIL = 'prottoys28@gmail.com'
-PASSWORD = 'Wemethey@4'
+PASSWORD = '------'
 FIRST_NAME = 'Super'
 LAST_NAME = 'Admin'
 
